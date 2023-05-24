@@ -1,6 +1,6 @@
 from importlib import import_module
 
-list = ['Domain1', 'Domain2']
+list = ['Domain1', 'Domain2', 'Domain3']
 
 dm = {} # список объектов проверки
 
